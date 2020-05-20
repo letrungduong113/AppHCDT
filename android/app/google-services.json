@@ -1,0 +1,107 @@
+{
+  "project_info": {
+    "project_number": "68331095434",
+    "firebase_url": "https://app1-quangninh.firebaseio.com",
+    "project_id": "app1-quangninh",
+    "storage_bucket": "app1-quangninh.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:68331095434:android:6f9b857bd20411a1",
+        "android_client_info": {
+          "package_name": "com.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "68331095434-kulbhfik0mmu2clgpkqtse7bio69338n.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.app",
+            "certificate_hash": "14b8a957251425c09413301705e07b4569d7d230"
+          }
+        },
+        {
+          "client_id": "68331095434-ri4cdirva4i9oqf0lkc2dvgbia25dne6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC8uQGlNDGmhbBe57C5lAn46-rBKDkxoCw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "68331095434-ri4cdirva4i9oqf0lkc2dvgbia25dne6.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "68331095434-s0hc5m5829u8j8lepfhtl7t8cr9qmav2.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "org.ttdhappbacninh.poc"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:68331095434:android:b974b23ab7e33b53",
+        "android_client_info": {
+          "package_name": "com.nativestarterkit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "68331095434-alpu9j6gtkdrhe8ck7i0sq4b49ed50r2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.nativestarterkit",
+            "certificate_hash": "14b8a957251425c09413301705e07b4569d7d230"
+          }
+        },
+        {
+          "client_id": "68331095434-2ofa3vu5204d8vbupoob15vcack427as.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.nativestarterkit",
+            "certificate_hash": "256fde85841adfc6289ae2193f4711f4103e7523"
+          }
+        },
+        {
+          "client_id": "68331095434-ri4cdirva4i9oqf0lkc2dvgbia25dne6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC8uQGlNDGmhbBe57C5lAn46-rBKDkxoCw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "68331095434-ri4cdirva4i9oqf0lkc2dvgbia25dne6.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "68331095434-s0hc5m5829u8j8lepfhtl7t8cr9qmav2.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "org.ttdhappbacninh.poc"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
